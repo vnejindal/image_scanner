@@ -1,17 +1,18 @@
 # image_scanner
 This is a working copy of python based image scanner application as specified by: 
 http://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
-"""
+
 ############################
    Mobile Image Scanner 
 ############################
-Dependencies: 
+#Dependencies: 
 Python : 2.7
 OpenCV : Version 2.4.13 
     -- downloaded from: http://opencv.org/
     -- install instructions: 
        http://stackoverflow.com/questions/4709301/installing-opencv-on-windows-7-for-python-2-7
-Following module files were downloaded first and then installed using pip:
+       
+#Following module files were downloaded first and then installed using pip:
 Source: http://www.lfd.uci.edu/~gohlke/pythonlibs
 Modules: numpy, scikit_image, scipy 
 pip installed modules: 
@@ -40,6 +41,7 @@ setuptools (34.3.0)
 six (1.10.0)
 toolz (0.8.2)
 wheel (0.29.0)
+
 Courtesy: 
 http://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
-"""
+
